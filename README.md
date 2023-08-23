@@ -5,24 +5,22 @@ Trenggalek, East Java, Indonesia. I'm delighted to meet you! 🙂</p>
 
 <p>If you want to contact me, please send an email to <a href="mailto:andryforwork227@gmail.com"
     target="_blank">andryforwork227@gmail.com</a> or <a href="mailto:andrypeb227@gmail.com"
-    target="_blank">andrypeb227@gmail.com</a></p>
-
-<p>Also, visit my second GitHub account, where I store all my exercise repositories: <a
+    target="_blank">andrypeb227@gmail.com</a>. Also, visit my second Github account, where I store all my exercise repositories: <a
     href="https://github.com/Aswassaw" target="_blank">Aswassaw</a>.</p>
 
 <h4 align="left">CONNECT WITH ME</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andry-pebrianto/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/andry-pebrianto/" target="blank"><img align="center"
     src="./icons/linkedin.svg" alt="https://www.linkedin.com/in/andry-pebrianto/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@andry-pebrianto" target="blank"><img align="center"
+<a href="https://medium.com/@andry-pebrianto" target="blank"><img align="center"
     src="./icons/medium.svg" alt="https://medium.com/@andry-pebrianto" height="30" width="40" /></a>
 <a href="https://t.me/aswassaw/" target="blank"><img align="center" src="./icons/telegram.svg"
     alt="https://t.me/aswassaw/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/andry_yang_tiada_tandingannya/" target="blank"><img
+<a href="https://www.instagram.com/andry_yang_tiada_tandingannya/" target="blank"><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="https://www.instagram.com/andry_yang_tiada_tandingannya/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/andry.pebrianto/" target="blank"><img align="center"
+<a href="https://web.facebook.com/andry.pebrianto/" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
     alt="https://web.facebook.com/andry.pebrianto/" height="30" width="40" /></a>
 </p>
