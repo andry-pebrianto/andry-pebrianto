@@ -5,9 +5,7 @@
 
   <p>If you want to contact me, please send an email to <a href="mailto:andryforwork227@gmail.com"
       target="_blank">andryforwork227@gmail.com</a> or <a href="mailto:andrypeb227@gmail.com"
-      target="_blank">andrypeb227@gmail.com</a></p>
-
-  <p>Also, visit my second GitHub account, where I store all my exercise repositories: <a
+      target="_blank">andrypeb227@gmail.com</a>. Also, visit my second GitHub account, where I store all my exercise repositories: <a
       href="https://github.com/Aswassaw" target="_blank">Aswassaw</a>.</p>
 
   <h4 align="left">CONNECT WITH ME</h4>
