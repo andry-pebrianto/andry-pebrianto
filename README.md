@@ -82,9 +82,13 @@ Trenggalek, East Java, Indonesia. I'm delighted to meet you! 🙂</p>
     title="Google Cloud Platform" /> </a>
 </p>
 
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=andry-pebrianto&show_icons=true&locale=en"
-    alt="andry-pebrianto" width="400px" /></p>
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=8"
-    alt="andry-pebrianto" /></p>
+<div style="display: flex;">
+    <p>
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=andry-pebrianto&show_icons=true&locale=en"
+        alt="andry-pebrianto" /></p>
+    <p>
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=6"
+        alt="andry-pebrianto"  /></p>
+</div>
