@@ -82,12 +82,12 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=andry-pebrianto&show_icons=true&locale=en"
     alt="andry-pebrianto Github Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=10"
     alt="andry-pebrianto Most Used Languages" />
 </p>
