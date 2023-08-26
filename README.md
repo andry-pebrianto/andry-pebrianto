@@ -92,6 +92,6 @@
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=12"
     alt="andry-pebrianto Most Used Languages" />
 </p>
