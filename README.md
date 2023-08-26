@@ -39,6 +39,9 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express" width="40" height="40" title="Express" /> </a>
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"
+      title="CodeIgniter 4" /> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" title="Bootstrap 5 " /> </a>
@@ -88,6 +91,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=10"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=10"
     alt="andry-pebrianto Most Used Languages" />
 </p>
