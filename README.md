@@ -86,7 +86,7 @@
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andry-pebrianto&show_icons=true&locale=en"
+  <img src="https://github-readme-stats.vercel.app/api?username=andry-pebrianto"
     alt="andry-pebrianto Github Stats" />
 </p>
 
