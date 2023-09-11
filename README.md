@@ -69,7 +69,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="38" height="38" title="MySQL" /> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="38" height="38" /> </a>
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="38" height="38" title="Jest" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38" title="Git" />
   </a>
