@@ -39,8 +39,8 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express" width="38" height="38" title="Express" /> </a>
-  <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> <img src="./icons/hapi.svg" alt="express" width="40"
-      height="40" title="Express" /> </a>
+  <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> <img src="./icons/hapi.svg" alt="hapi" width="40"
+      height="40" title="Hapi" /> </a>
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="38" height="38"
       title="CodeIgniter 4" /> </a>
