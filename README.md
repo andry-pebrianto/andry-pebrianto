@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andry Pebrianto</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3>
-<p>My name is Andry Pebrianto. I'm very enthusiastic about creating enjoyable projects. My residence is located in
-  Trenggalek, East Java, Indonesia. I'm delighted to meet you! 🙂</p>
+<p>My name is Andry Pebrianto. I'm very enthusiastic about creating a meaningful project. I live in the city of Trenggalek, East Java, Indonesia. I'm delighted to meet you! 🙂</p>
 
 <p>If you want to contact me, please send an email to <a href="mailto:andryforwork227@gmail.com"
     target="_blank">andryforwork227@gmail.com</a> or <a href="mailto:andrypeb227@gmail.com"
