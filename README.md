@@ -32,20 +32,15 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="38" height="38" title="Typescript" /> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
-      height="40" title="Golang" /> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express" width="38" height="38" title="Express" /> </a>
-  <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> <img src="./icons/hapi.svg" alt="hapi" width="40"
-      height="40" title="Hapi" /> </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="38" height="38"
-      title="CodeIgniter 4" /> </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+      src="./icons/nest.png" alt="nest" width="38"
+      height="38" title="Nest" /> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="38" height="38" title="Bootstrap 5 " /> </a>
+      src="./icons/bootstrap.svg"
+      alt="bootstrap" width="38" height="38" title="Bootstrap" /> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"
       title="Tailwind" /> </a>
@@ -56,8 +51,6 @@
       alt="react" width="38" height="38" title="React" /> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="38" height="38" title="Next" /> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="38" height="38" title="React Native" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -82,6 +75,30 @@
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="38" height="38"
       title="Google Cloud Platform" /> </a>
 </p>
+
+<h4 align="left">TECHNOLOGIES THAT I WILL LEARN</h4>
+
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="38"
+      height="38" title="Golang" /> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+      src="./icons/laravel.svg" alt="laravel" width="38"
+      height="38" title="Laravel" /> </a>
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img
+      src="./icons/vuejs.svg" alt="vue" width="38"
+      height="38" title="Vue" /> </a>
+<a href="https://nuxt.com" target="_blank" rel="noreferrer"> <img
+      src="./icons/nuxt.svg" alt="nuxt" width="38"
+      height="38" title="Nuxt" /> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+      src="./icons/angular.svg" alt="angular" width="38"
+      height="38" title="Angular" /> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+      src="./icons/flutter.svg" alt="flutter" width="38"
+      height="38" title="Flutter" /> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img
+      src="./icons/cypress.svg" alt="cypress" width="38"
+      height="38" title="Cypress" /> </a>
 
 ---
 
