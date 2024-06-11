@@ -143,7 +143,7 @@
     />
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="./icons/kotlin.svg" alt="kotlin" width="38" height="38" />
+    <img src="./icons/kotlin.svg" alt="kotlin" width="36" height="36" />
   </a>
   <a href="https://vuejs.org" target="_blank" rel="noreferrer">
     <img src="./icons/vuejs.svg" alt="vue" width="38" height="38" title="Vue" />
