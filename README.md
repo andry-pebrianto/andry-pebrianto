@@ -215,3 +215,5 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry-pebrianto&layout=compact&langs_count=10"
     alt="andry-pebrianto Most Used Languages" />
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=andry-pebrianto&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
