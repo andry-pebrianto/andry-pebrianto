@@ -70,24 +70,6 @@
 <h4 align="left">TECHNOLOGIES I USE</h4>
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="38"
-      height="38"
-      title="Typescript"
-    />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./icons/nest.png"
-      alt="nest"
-      width="38"
-      height="38"
-      title="Nest"
-    />
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -115,13 +97,13 @@
       title="Bootstrap"
     />
   </a>
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
+  <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
     <img
-      src="./icons/antd.svg"
-      alt="antdesign"
+      src="./icons/mantine.svg"
+      alt="mantine"
       width="38"
       height="38"
-      title="Ant Design"
+      title="Mantine"
     />
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -133,20 +115,8 @@
       title="Golang"
     />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./icons/laravel.svg"
-      alt="laravel"
-      width="38"
-      height="38"
-      title="Laravel"
-    />
-  </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="./icons/kotlin.svg" alt="kotlin" width="35.5" height="35.5" title="Kotlin" />
-  </a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="./icons/vuejs.svg" alt="vue" width="38" height="38" title="Vue" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
